@@ -14,6 +14,9 @@
 		color: white;
 		text-align: center;
 		justify-content: center;
+		align-items: center;
+		height: 100%;
+		border: 1px black solid;
 	}
 
 	#block {
